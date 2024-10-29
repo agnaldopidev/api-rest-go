@@ -1,6 +1,6 @@
 # API REST em Go
 
-Este projeto é uma API REST simples desenvolvida em Go, com operações para gerenciar usuários. A API possui dois endpoints básicos: um para listar usuários e outro para adicionar novos usuários.
+Este projeto é uma API REST simples desenvolvida em Go, com operações para gerenciar usuários. A API possui operaçẽs de CRUD.
 
 ## Tecnologias
 
