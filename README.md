@@ -8,7 +8,7 @@ Este projeto é uma API REST simples desenvolvida em Go, com operações para ge
 - Biblioteca padrão `net/http`
 
 ## Estrutura do Projeto
-minha_api/ ├── main.go # Código principal do servidor e das rotas ├── go.mod # Gerenciamento de dependências └── README.md # Documentação do projeto
+api-rest-go/ ├── main.go # Código principal do servidor e das rotas ├── go.mod # Gerenciamento de dependências └── README.md # Documentação do projeto
 
 ## Pré-requisitos
 
