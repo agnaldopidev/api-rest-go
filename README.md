@@ -32,14 +32,14 @@ api-rest-go/ ├── main.go # Código principal do servidor e das rotas ├�
 
 6. ***O servidor agora estará disponível em http://localhost:8080***.
 
-Exemplo:
-***Lista usuarios***
+## Exemplo:
+
+1. Lista usuarios
    
    ```bash
    $ curl -X GET http://localhost:8080/users
 
-
-***Criar usuarios***
+2. Criar usuarios
 
   ```bash   
   $ curl -X POST http://localhost:8080/users -H "Content-Type: application/json" -d '{"nome":"Carlos","email":"carlos@example.com"}'
