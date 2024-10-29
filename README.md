@@ -24,7 +24,7 @@ api-rest-go/ ├── main.go # Código principal do servidor e das rotas ├�
 2. ***Inicialize o módulo Go***
    cd api-rest-go
    ```bash
-   $ go mod init api]
+   $ go mod init api
    
 4. ***Execute o servidor***:
    ```bash
