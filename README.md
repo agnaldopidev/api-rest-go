@@ -34,9 +34,13 @@ api-rest-go/ ├── main.go # Código principal do servidor e das rotas ├�
 
 Exemplo:
 ***Lista usuarios***
+   
    ```bash
    $ curl -X GET http://localhost:8080/users
 
+
 ***Criar usuarios***
-   $ curl -X POST http://localhost:8080/users -H "Content-Type: application/json" -d '{"nome":"Carlos","email":"carlos@example.com"}'
+
+  ```bash   
+  $ curl -X POST http://localhost:8080/users -H "Content-Type: application/json" -d '{"nome":"Carlos","email":"carlos@example.com"}'
    
