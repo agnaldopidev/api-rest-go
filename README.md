@@ -41,6 +41,6 @@ api-rest-go/ ├── main.go # Código principal do servidor e das rotas ├�
 
 2. Criar usuarios
 
-  ```bash   
+  ```bash
   $ curl -X POST http://localhost:8080/users -H "Content-Type: application/json" -d '{"nome":"Carlos","email":"carlos@example.com"}'
    
